@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const ctx = canvas.getContext("2d");
 
-  const images = ['images/portrait2.jpg', 'images/sports2.jpg', 'images/studio3.jpg', 'images/events4.jpg', 'images/events5.jpg', 'images/sports1.jpg'];
+  const images = ['images/portrait2.jpg', 'images/sports2.JPG', 'images/studio3.JPG', 'images/events4.jpg', 'images/events5.jpg', 'images/sports1.jpg'];
   let currentIndex = 0;
   let img = new Image();
 
